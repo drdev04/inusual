@@ -1,0 +1,42 @@
+body {
+  margin: 0;
+  background: #020202;
+  cursor: crosshair;
+}
+canvas{display:block}
+h1 {
+  position: absolute;
+  top: 20%;
+  left: 57%;
+  transform: translate(-50%, -50%);
+  color: #F4F5F7;
+  font-family: 'Press Start 2P', cursive;
+  font-size: 3em;
+  font-weight: 800;
+  -webkit-user-select: none;
+  user-select: none;
+}
+h2 {
+  position: absolute;
+  top: 35%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: #F4F6F7;
+  font-family: 'Press Start 2P', cursive;
+  font-size: 4em;
+  font-weight: 800;
+  -webkit-user-select: none;
+  user-select: none;
+}
+p{
+  position: absolute;
+  top: 70%;
+  left: 53%;
+  transform: translate(-50%, -50%);
+  color: #F4F6F7;
+  font-family: 'Verdana', cursive;
+  font-size: 1.2em;
+  font-weight: 1000;
+  -webkit-user-select: none;
+  user-select: none;
+}
